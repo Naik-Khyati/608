@@ -1,0 +1,51 @@
+state_abbrev,RATE,DEATHS,state_name,nbr_gun_policies
+AL,26.4,1315,Alabama,11
+AK,25.2,182,Alaska,7
+AZ,18.3,1365,Arizona,7
+AR,23.3,698,Arkansas,4
+CA,9,3576,California,45
+CO,17.8,1064,Colorado,32
+CT,6.7,248,Connecticut,41
+DE,16.6,158,Delaware,28
+FL,14.1,3142,Florida,17
+GA,20.3,2200,Georgia,4
+HI,4.8,71,Hawaii,41
+ID,16.3,309,Idaho,4
+IL,16.1,1995,Illinois,42
+IN,18.4,1251,Indiana,10
+IA,11.2,364,Iowa,13
+KS,17.3,503,Kansas,8
+KY,21.1,947,Kentucky,7
+LA,29.1,1314,Louisiana,13
+ME,12.6,178,Maine,13
+MD,15.2,915,Maryland,39
+MA,3.4,247,Massachusetts,38
+MI,15.4,1544,Michigan,14
+MN,10,573,Minnesota,24
+MS,33.9,962,Mississippi,3
+MO,23.2,1414,Missouri,8
+MT,25.1,280,Montana,4
+NE,10.3,200,Nebraska,14
+NV,19.8,633,Nevada,17
+NH,8.3,123,New Hampshire,7
+NJ,5.2,475,New Jersey,40
+NM,27.8,578,New Mexico,19
+NY,5.4,1078,New York,42
+NC,17.3,1839,North Carolina,17
+ND,16.8,128,North Dakota,10
+OH,16.5,1911,Ohio,11
+OK,21.2,836,Oklahoma,7
+OR,14.9,670,Oregon,31
+PA,14.8,1905,Pennsylvania,26
+RI,5.6,64,Rhode Island,28
+SC,22.4,1136,South Carolina,11
+SD,14.3,128,South Dakota,5
+TN,22.8,1569,Tennessee,15
+TX,15.6,4613,Texas,12
+UT,13.9,450,Utah,9
+VT,11.9,83,Vermont,18
+VA,14.3,1248,Virginia,27
+WA,11.2,896,Washington,33
+WV,17.3,319,West Virginia,11
+WI,13.5,793,Wisconsin,15
+WY,26.1,155,Wyoming,4
